@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Microsoft Suite</b>
-  - [Excel Sales Dashboard](https://github.com/gagegunion/sales-dashboard)
+  - [Excel Sales Dashboard](https://github.com/GageGunion/ExcelDashboard)
   - [Access Business Database](https://github.com/gagegunion/business-database)
 - <b>Cybersecurity</b>
   - [Active Directory Home Lab](https://github.com/gagegunion/homelab)

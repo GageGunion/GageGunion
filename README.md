@@ -1,7 +1,35 @@
-## Hi there 👋
+<h1>Hi, I'm Gage! <br/><a href="https://github.com/gagegunion">Upcoming IT Professional</a></h1>
+
+<h2>👨‍💻 IT Projects:</h2>
+
+- <b>Microsoft Suite</b>
+  - [Excel Sales Dashboard](https://github.com/gagegunion/sales-dashboard)
+  - [Access Business Database](https://github.com/gagegunion/business-database)
+- <b>Cybersecurity</b>
+  - [Active Directory Home Lab](https://github.com/gagegunion/homelab)
+- <b>IT Support</b>
+  - [Help Desk and Ticket System](https://github.com/gagegunion/help-desk)
+- <b>Code</b>
+  - [Python](https://github.com/gagegunion/pyhton-code)
+
+<h2>Certifications</h2>
+
+- [CompTIA A+]
+- [FEMA National Incident Management System ICS-100]
+- [Qualys Vulnerability Management]
+- [Radio Operator]
+- CompTIA Security+
+  - Coming Soon!
+- Google Cybersecurity Professional
+  - Coming soon!
+- AZ-900
+  - Coming soon!
+- AZ-104
+  - Coming soon!
+
 
 <!--
-**GageGunion/GageGunion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

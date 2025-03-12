@@ -15,7 +15,7 @@
 <h2>Certifications</h2>
 
 - [CompTIA A+]
-- [FEMA National Incident Management System ICS-100]
+- [FEMA National Incident Management System ICS-100](https://imgur.com/NPUf1xx.png)
 - [Qualys Vulnerability Management]
 - [Radio Operator]
 - CompTIA Security+

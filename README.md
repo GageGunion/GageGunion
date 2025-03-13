@@ -7,8 +7,6 @@
   - [Access Business Database](https://github.com/GageGunion/BusinessDatabase)
 - <b>Cybersecurity</b>
   - [Active Directory Home Lab](https://github.com/gagegunion/homelab)
-- <b>IT Support</b>
-  - [Help Desk and Ticket System](https://github.com/gagegunion/help-desk)
 - <b>Code</b>
   - [Python](https://github.com/gagegunion/pyhton-code)
 

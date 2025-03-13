@@ -8,7 +8,7 @@
 - <b>Cybersecurity</b>
   - [Active Directory Home Lab](https://github.com/gagegunion/homelab)
 - <b>Code</b>
-  - [Python](https://github.com/gagegunion/pyhton-code)
+  - [Python Project Carly's Clippers](https://github.com/gagegunion/pyhton-code)
 
 <h2>Certifications</h2>
 

@@ -10,6 +10,7 @@
      - Coming soon!
 - <b>Code</b>
   - [Python Project Carly's Clippers](https://github.com/GageGunion/PythonProject1)
+  - [C school project](https://github.com/GageGunion/C_Project1)
 
 <h2>Certifications</h2>
 
